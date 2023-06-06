@@ -1,0 +1,7 @@
+gorest\serinity\project\models\UserPojo.class
+gorest\serinity\project\utils\PropertyReader.class
+gorest\serinity\project\constant\EndPoints.class
+gorest\serinity\project\App.class
+gorest\serinity\project\constant\Path.class
+gorest\serinity\project\gorestappinfo\UserSteps.class
+gorest\serinity\project\utils\TestUtils.class
